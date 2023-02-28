@@ -1,0 +1,3 @@
+D:/C++/algorithms/matrix_transpose/cmake-build-debug/CMakeFiles/matrix_transpose.dir
+D:/C++/algorithms/matrix_transpose/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/algorithms/matrix_transpose/cmake-build-debug/CMakeFiles/rebuild_cache.dir
