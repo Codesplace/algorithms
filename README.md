@@ -5,4 +5,4 @@
 ### 矩阵转置 [题目](https://edu.csdn.net/skill/practice/algorithm-f87a3d944ae64fcd95ca73760d1d6541/2442?language=algorithm&materialId=19008) [代码](https://github.com/Codesplace/algorithms/tree/main/matrix_transpose) 
 ### 微生物增殖 [题目](https://edu.csdn.net/skill/practice/algorithm-77796fecc167496f966ca74e5bcbdbd0/2285?language=algorithm&materialId=19534) [代码](https://github.com/Codesplace/algorithms/tree/main/microbial_proliferation) 
 ### 成绩统计 [题目](https://edu.csdn.net/skill/practice/algorithm-15f36f7666994175aedd437488e68da9/2267?language=algorithm&materialId=19005) [代码](https://github.com/Codesplace/algorithms/tree/main/achievement_statistics) 
-### 特别数的和 [题目](https://edu.csdn.net/skill/practice/algorithm-ef2760aef95742c49f78c313d1ff2eb1/2311?language=algorithm&materialId=19498) [代码](https://github.com/Codesplace/algorithms/tree/main/sum_of_particular_numbers) 
+### 特别数之和 [题目](https://edu.csdn.net/skill/practice/algorithm-ef2760aef95742c49f78c313d1ff2eb1/2311?language=algorithm&materialId=19498) [代码](https://github.com/Codesplace/algorithms/tree/main/sum_of_particular_numbers) 
