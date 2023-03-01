@@ -1,0 +1,7 @@
+# ninja log v5
+0	328	6993467998945243	CMakeFiles/sum_of_particular_numbers.dir/main.cpp.obj	11008ca4966c58fc
+330	458	6993468000217148	sum_of_particular_numbers.exe	3b91b9c8d278a80c
+5	306	6993472065687532	CMakeFiles/sum_of_particular_numbers.dir/main.cpp.obj	11008ca4966c58fc
+307	417	6993472066754796	sum_of_particular_numbers.exe	3b91b9c8d278a80c
+3	286	6993472807368832	CMakeFiles/sum_of_particular_numbers.dir/main.cpp.obj	11008ca4966c58fc
+286	394	6993472808410819	sum_of_particular_numbers.exe	3b91b9c8d278a80c
