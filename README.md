@@ -7,3 +7,4 @@
 ### 成绩统计 [题目](https://edu.csdn.net/skill/practice/algorithm-15f36f7666994175aedd437488e68da9/2267?language=algorithm&materialId=19005) [代码](https://github.com/Codesplace/algorithms/tree/main/achievement_statistics) 
 ### 特别数的和 [题目](https://edu.csdn.net/skill/practice/algorithm-ef2760aef95742c49f78c313d1ff2eb1/2311?language=algorithm&materialId=19498) [代码](https://github.com/Codesplace/algorithms/tree/main/sum_of_particular_numbers) 
 ### 星系炸弹 [题目](https://edu.csdn.net/skill/practice/algorithm-7155bf0956dc4133abb9ba64b5e4f6ae/2300?language=algorithm&materialId=19522) [代码](https://github.com/Codesplace/algorithms/tree/main/galaxy_bomb) 
+### 蛇形填数 [题目](https://edu.csdn.net/skill/practice/algorithm-f4874378183445fb9edcf1cb372399f7/2433?language=algorithm&materialId=19489) [代码](https://github.com/Codesplace/algorithms/tree/main/serpentine_fill_number) 

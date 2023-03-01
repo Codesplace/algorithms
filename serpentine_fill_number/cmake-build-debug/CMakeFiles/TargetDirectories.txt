@@ -1,0 +1,3 @@
+D:/C++/algorithms/serpentine_fill_number/cmake-build-debug/CMakeFiles/serpentine_fill_number.dir
+D:/C++/algorithms/serpentine_fill_number/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/algorithms/serpentine_fill_number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
