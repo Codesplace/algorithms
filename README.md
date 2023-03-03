@@ -9,3 +9,5 @@
 ### 星系炸弹 [题目](https://edu.csdn.net/skill/practice/algorithm-7155bf0956dc4133abb9ba64b5e4f6ae/2300?language=algorithm&materialId=19522) [代码](https://github.com/Codesplace/algorithms/tree/main/galaxy_bomb) 
 ### 蛇形填数 [题目](https://edu.csdn.net/skill/practice/algorithm-f4874378183445fb9edcf1cb372399f7/2433?language=algorithm&materialId=19489) [代码](https://github.com/Codesplace/algorithms/tree/main/serpentine_fill_number) 
 ### 日志统计 [题目](https://edu.csdn.net/skill/practice/algorithm-9aea8ae61f274180b9b7172c43ebe69f/2462?language=algorithm&materialId=19531) [代码](https://github.com/Codesplace/algorithms/tree/main/log_statistics) 
+### 猜年龄 [题目](https://edu.csdn.net/skill/practice/algorithm-a413078fb6e74644b8c9f6e28896e377/2258?language=algorithm&materialId=19059) [代码](https://github.com/Codesplace/algorithms/tree/main/guess_his_age) 
+### 待填 [题目]() [代码](https://github.com/Codesplace/algorithms/tree/main/) 
