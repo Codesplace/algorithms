@@ -1,0 +1,17 @@
+# ninja log v5
+0	2032	6995138785876897	CMakeFiles/log_statistics.dir/main.cpp.obj	337bfad73b94f30e
+2037	2758	6995138793132414	log_statistics.exe	da381a3842899997
+14	3577	6995149965349679	CMakeFiles/log_statistics.dir/main.cpp.obj	337bfad73b94f30e
+3579	4806	6995149977492323	log_statistics.exe	da381a3842899997
+14	1925	6995152324551422	CMakeFiles/log_statistics.dir/main.cpp.obj	337bfad73b94f30e
+1927	2340	6995152328606622	log_statistics.exe	da381a3842899997
+11	1527	6995155294598036	CMakeFiles/log_statistics.dir/main.cpp.obj	337bfad73b94f30e
+1529	1988	6995155299066263	log_statistics.exe	da381a3842899997
+10	1415	6995155509768069	CMakeFiles/log_statistics.dir/main.cpp.obj	337bfad73b94f30e
+1416	1789	6995155513409384	log_statistics.exe	da381a3842899997
+10	1303	6995161905167274	CMakeFiles/log_statistics.dir/main.cpp.obj	337bfad73b94f30e
+1305	1713	6995161909148920	log_statistics.exe	da381a3842899997
+11	1416	6995177398214516	CMakeFiles/log_statistics.dir/main.cpp.obj	337bfad73b94f30e
+1419	1825	6995177402178780	log_statistics.exe	da381a3842899997
+10	1417	6995177890305930	CMakeFiles/log_statistics.dir/main.cpp.obj	337bfad73b94f30e
+1419	1871	6995177894664160	log_statistics.exe	da381a3842899997

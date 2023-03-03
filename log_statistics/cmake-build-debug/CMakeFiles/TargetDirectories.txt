@@ -1,0 +1,3 @@
+D:/C++/algorithms/log_statistics/cmake-build-debug/CMakeFiles/log_statistics.dir
+D:/C++/algorithms/log_statistics/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/algorithms/log_statistics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
