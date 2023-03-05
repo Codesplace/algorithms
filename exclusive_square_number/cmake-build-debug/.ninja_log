@@ -1,0 +1,23 @@
+# ninja log v5
+0	360	6996916397689773	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+361	426	6996916398322701	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	308	6996916638212626	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+308	370	6996916638804145	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	304	6996917882066421	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+304	367	6996917882658936	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	299	6996919288444982	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+300	356	6996919288988831	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	319	6996921503343776	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+319	383	6996921503960428	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	324	6996923174757411	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+325	384	6996923175321998	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	311	6996923946880485	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+311	370	6996923947437165	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	309	6996928455028827	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+310	369	6996928455591962	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	325	6996928667253077	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+325	385	6996928667819641	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	301	6996929993449931	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+301	360	6996929994007621	exclusive_square_number.exe	80bbd6bb44c17c6b
+2	303	6996930613809777	CMakeFiles/exclusive_square_number.dir/main.cpp.obj	ed71bd76814df004
+303	362	6996930614371459	exclusive_square_number.exe	80bbd6bb44c17c6b

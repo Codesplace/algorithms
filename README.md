@@ -10,4 +10,5 @@
 ### 蛇形填数 [题目](https://edu.csdn.net/skill/practice/algorithm-f4874378183445fb9edcf1cb372399f7/2433?language=algorithm&materialId=19489) [代码](https://github.com/Codesplace/algorithms/tree/main/serpentine_fill_number) 
 ### 日志统计 [题目](https://edu.csdn.net/skill/practice/algorithm-9aea8ae61f274180b9b7172c43ebe69f/2462?language=algorithm&materialId=19531) [代码](https://github.com/Codesplace/algorithms/tree/main/log_statistics) 
 ### 猜年龄 [题目](https://edu.csdn.net/skill/practice/algorithm-a413078fb6e74644b8c9f6e28896e377/2258?language=algorithm&materialId=19059) [代码](https://github.com/Codesplace/algorithms/tree/main/guess_his_age) 
+### 排它平方数 [题目](https://edu.csdn.net/skill/practice/algorithm-ef16a8876b2446c0981c5b9cf28f278d/2314?language=algorithm&materialId=19516) [代码](https://github.com/Codesplace/algorithms/tree/main/exclusive_square_number) 
 ### 待填 [题目]() [代码](https://github.com/Codesplace/algorithms/tree/main/) 
