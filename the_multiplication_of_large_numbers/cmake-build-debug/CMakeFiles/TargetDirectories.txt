@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/Code/algorithms/the_multiplication_of_large_numbers/cmake-build-debug/CMakeFiles/the_multiplication_of_large_numbers.dir
+C:/Users/Administrator/Desktop/Code/algorithms/the_multiplication_of_large_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Code/algorithms/the_multiplication_of_large_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
